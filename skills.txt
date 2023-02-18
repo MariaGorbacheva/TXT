@@ -1,0 +1,7 @@
+Знания:
+1. SQL
+2. Git Bash
+3. Git Hub
+4. Client-Server Archetecture
+5. Mobile testing
+
